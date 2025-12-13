@@ -74,17 +74,6 @@ Uma coleção documentada das máquinas e desafios que comprometi.
 | :--- | :---: | :---: | :--- | :---: |
 | **Enterprise** | <img src="https://img.shields.io/badge/-Windows-blue?logo=windows" /> | 🔴 Hard | `Active Directory` `Kerberoasting` | [Read Here](https://spice-washer-6d9.notion.site/Enterprise-Writeup-Caio-Chagas-1f42dcd52c698043af60f869b5a75054) |
 
-`#### 🚀 TryHackMe`
-
-`| Room Name | Category | Focus | Writeup Link |
-| :--- | :--- | :--- | :---: |
-| **Offensive Pentesting** | Learning Path | AD Buffer Overflow | [Read Here](#) |
-| **Pickle Rick** | CTF | Web Linux | [Read Here](#) |`
-
-<div align="right">
-  <a href="./Writeups">📂 <b>Explore o diretório completo de Writeups</b></a>
-</div>
-
 ---
 
 ### 📊 GitHub Analytics
