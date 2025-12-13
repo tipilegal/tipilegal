@@ -20,7 +20,7 @@
 
 ### 👨‍💻 `whoami`
 
-Sou um Analista de Infraestrutura de TI apaixonado por quebrar as coisas para torná-las mais seguras. Com um background sólido em construção e manutenção de servidores, redes e automação (Ansible), possuo a vantagem tática de entender profundamente como os alvos são configurados.
+Sou um Analista de Infraestrutura de TI apaixonado cybersecurity. Com um background sólido em construção e manutenção de servidores, redes e automação (Ansible), possuo a vantagem tática de entender profundamente como os alvos são configurados.
 
 Atualmente, estou pivotando minha carreira para Red Team e Pentesting, validando meu conhecimento com a certificação CompTIA PenTest+ e destruindo máquinas diariamente em laboratórios CTF.
 
@@ -32,7 +32,6 @@ Atualmente, estou pivotando minha carreira para Red Team e Pentesting, validando
 
 🛡️ **Certificações:**
 * CompTIA PenTest+
-* [Outra Certificação]
 
 ---
 
@@ -74,14 +73,13 @@ Uma coleção documentada das máquinas e desafios que comprometi.
 | Machine / Challenge | OS | Difficulty | Tags | Writeup Link |
 | :--- | :---: | :---: | :--- | :---: |
 | **Enterprise** | <img src="https://img.shields.io/badge/-Windows-blue?logo=windows" /> | 🔴 Hard | `Active Directory` `Kerberoasting` | [Read Here](https://spice-washer-6d9.notion.site/Enterprise-Writeup-Caio-Chagas-1f42dcd52c698043af60f869b5a75054) |
-| **Example Machine** | <img src="https://img.shields.io/badge/-Linux-grey?logo=linux" /> | 🟢 Easy | `Web` `CVE-2021-XXXX` | [Read Here](#) |
 
-#### 🚀 TryHackMe
+`#### 🚀 TryHackMe`
 
-| Room Name | Category | Focus | Writeup Link |
+`| Room Name | Category | Focus | Writeup Link |
 | :--- | :--- | :--- | :---: |
-| **Offensive Pentesting** | Learning Path | `AD` `Buffer Overflow` | [Read Here](#) |
-| **Pickle Rick** | CTF | `Web` `Linux` | [Read Here](#) |
+| **Offensive Pentesting** | Learning Path | AD Buffer Overflow | [Read Here](#) |
+| **Pickle Rick** | CTF | Web Linux | [Read Here](#) |`
 
 <div align="right">
   <a href="./Writeups">📂 <b>Explore o diretório completo de Writeups</b></a>
