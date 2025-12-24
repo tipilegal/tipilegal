@@ -20,7 +20,7 @@
 
 ### 👨‍💻 `whoami`
 
-Sou um Analista de Infraestrutura de TI apaixonado cybersecurity. Com um background sólido em construção e manutenção de servidores, redes e automação (Ansible), possuo a vantagem tática de entender profundamente como os alvos são configurados.
+Sou um Analista de Infraestrutura de TI apaixonado por cybersecurity. Com um background sólido em construção e manutenção de servidores, redes e automação (Ansible), possuo a vantagem tática de entender profundamente como os alvos são configurados.
 
 Atualmente, estou pivotando minha carreira para Red Team e Pentesting, validando meu conhecimento com a certificação CompTIA PenTest+ e destruindo máquinas diariamente em laboratórios CTF.
 
