@@ -20,15 +20,15 @@
 
 ### 👨‍💻 `whoami`
 
-Sou um Analista de Infraestrutura de TI apaixonado por cybersecurity. Com um background sólido em construção e manutenção de servidores, redes e automação (Ansible), possuo a vantagem tática de entender profundamente como os alvos são configurados.
+Sou um Analista de Infraestrutura de TI apaixonado por cybersecurity. Com um background sólido em construção e manutenção de servidores e redes, possuo a vantagem tática de entender profundamente como os alvos são configurados.
 
 Atualmente, estou pivotando minha carreira para Red Team e Pentesting, validando meu conhecimento com certificações e testando a segurança de máquinas diariamente em laboratórios CTF.
 
 🔭 **Atualmente trabalhando em:** Infraestrutura Crítica & Automação na Studio VS.
 
-🌱 **Estudando:** Desenvolvimento de Exploits, Active Directory Hacking & C2 Infrastructure.
+🌱 **Estudando:** Web Exploits, Active Directory Hacking & C2 Infrastructure.
 
-🎯 **Objetivo:** Junior Red Team / Pentester.
+🎯 **Objetivo:** Red Team / Pentester.
 
 🛡️ **Certificações:**
 * CompTIA PenTest+
