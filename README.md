@@ -32,6 +32,8 @@ Atualmente, estou pivotando minha carreira para Red Team e Pentesting, validando
 
 🛡️ **Certificações:**
 * CompTIA PenTest+
+* INE - EWPTX
+* THM - Jr. Penetration Tester
 
 ---
 
