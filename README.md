@@ -24,7 +24,7 @@ Sou um Analista de Infraestrutura de TI apaixonado por cybersecurity. Com um bac
 
 Atualmente, estou pivotando minha carreira para Red Team e Pentesting, validando meu conhecimento com certificações e testando a segurança de máquinas diariamente em laboratórios CTF.
 
-🔭 **Atualmente trabalhando em:** Infraestrutura Crítica & Automação na Studio VS.
+🔭 **Atualmente trabalhando em:** Analista de Infraestrutura na Studio VS.
 
 🌱 **Estudando:** Web Exploits, Active Directory Hacking & C2 Infrastructure.
 
