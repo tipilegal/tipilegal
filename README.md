@@ -28,11 +28,10 @@ Atualmente, estou pivotando minha carreira para Red Team e Pentesting, validando
 
 🌱 **Estudando:** Web Exploits, Active Directory Hacking & C2 Infrastructure.
 
-🎯 **Objetivo:** Red Team / Pentester.
-
 🛡️ **Certificações:**
 * CompTIA PenTest+
 * INE - EWPTX
+* HTB - Dante & Zephyr
 * THM - Jr. Penetration Tester
 
 ---
